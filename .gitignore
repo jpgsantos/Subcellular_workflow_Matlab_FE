@@ -1,8 +1,10 @@
-
-**/NEURON/single_sec_cell.py
-!**/Matlab/Model/Place models here.txt
-**/Matlab/Model/**
-*.pdf
-*.tiff
-*.png
-!**/Docs/Images/**
+**/Data/*.mat
+**/Data/*.sbproj
+*.sbproj
+**/Results/*
+!**/Results/Analysis_GSA_example/
+!**/Results/Analysis_diagnostics_example/
+**/Formulas/*.m
+**/Data/Exp/*.mat
+*/Model
+*.xml
